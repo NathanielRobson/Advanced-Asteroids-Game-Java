@@ -11,7 +11,7 @@ Ensure that the project structure output file has been specified as the â€˜outâ€
 ## Key Bindings
 W or UP: Thrust Ship  
 A or Left: Rotate Ship Left  
-D or Right: Rotate Ship Right
+D or Right: Rotate Ship Right  
 T: Teleport Ship  
 Spacebar: Fire Weapon  
 ESC: Exit Game  
