@@ -2,7 +2,7 @@
 
 My take on a well known classic 'Asteroids', produced by myself at the University of Essex.  
 
-![Asteroid Action](/Images/Asteroid action screenshot.jpg)
+![Asteroid Action](/Images/Asteroidt.jpg)
 
 
 ## How to run my game
