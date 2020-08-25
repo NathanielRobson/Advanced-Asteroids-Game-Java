@@ -1,4 +1,4 @@
-# Advanced-Asteroids-Game-Java
+# Advanced Asteroids Game
 
 My take on a well known classic 'Asteroids', produced by myself at the University of Essex.  
 
@@ -6,7 +6,7 @@ My take on a well known classic 'Asteroids', produced by myself at the Universit
 
 
 ## How to run my game
-Navigate to the java file named ‘Game’ which can be found here:  ‘dAsteroids/src/AsteroidsFinal/Game/Game.java’  
+Navigate to the java file named ‘Game’ which can be found here:  ‘Asteroids/src/AsteroidsFinal/Game/Game.java’  
 The main method is in this class so simply run this (Right click, Run. Or green play button at the top of your IDE).  
 Ensure that the project structure output file has been specified as the ‘out’ file and that the project SDK has been selected. 
 
